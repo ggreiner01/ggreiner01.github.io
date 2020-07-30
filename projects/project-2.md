@@ -2,16 +2,16 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+title: Weather Project
+permalink: projects/Weather
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2019-08-21
 labels:
   - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - JSON
+  - PHP
+  - HTML
+summary: A responsive web application to help former Professor centralize weather data from his cabin in northern Wisconsin.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
