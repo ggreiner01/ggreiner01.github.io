@@ -2,13 +2,16 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+title: Vidley
+permalink: projects/vidley
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2020-05-30
 labels:
-  - Lisp
-  - GitHub
+  - ASP .NET
+  - MVC
+  - C#
+  - PHP
+  - HTML
 summary: A text adventure game I developed for ICS 313.
 ---
 
