@@ -10,7 +10,7 @@ labels:
   - Laravel
   - PHP 
   - HTML
-  -Github
+  - Github
 summary: My team developed a web application for the Resident Life Department to streamline dorm selection.
 ---
 
