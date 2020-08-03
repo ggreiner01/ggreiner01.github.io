@@ -15,7 +15,7 @@ summary: My team developed a web application for the Resident Life Department to
 ---
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/ResLife1.png">
+  <img class="ui image" src="../images/ResLife1.jpg">
 </div>
 
 The Resident Life Project was an idea brought to our team by the Resident Life department of Aurora University. Before the beginning of every school year, student who are going to live on campus have to gather on campus to register for a room. They would gather in the auditorium, wait in a single file line and go up to the stage one by one to figure out what room you wanted to choose. Through weekly meetings, several people from the department and my team helped plan and create an application that would streamline that process through AU’s website. And by utilizing Laravel, a php framework, we developed an application that met all of their specifications.
