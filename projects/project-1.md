@@ -16,7 +16,7 @@ summary: My team developed a web application for the Resident Life Department to
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/ResLife1.jpg">
-  <img class="ui image" src="../images/ResLife2.png">
+  <img class="ui image" src="../images/ResLife1.png">
   <img class="ui image" src="../images/ResLife3.png">
 </div>
 
