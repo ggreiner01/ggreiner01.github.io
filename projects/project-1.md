@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/au-logo2.png
 title: Resident Life Project
 permalink: projects/ResLife
 # All dates must be YYYY-MM-DD format!
