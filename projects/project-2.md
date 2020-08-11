@@ -16,10 +16,7 @@ summary: A responsive web application to help former Professor centralize weathe
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+The Weather Data Project was a collaboration between me and a former professor.  Ex-professor Oij, another retired professor of mine, has a cabin somewhere in Northern Wisconsin.  He keeps records of several different kinds of weather data that he measures every hour on the hour beginning in 2014. All of the data he had was uploaded to a .csv file. What I needed to do was to retrieve that data and insert it into a database as well as incoming data. Then the web page should be able to display that information in JavaScript format. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+First thing was to be able to get the names of the files off of the website where he uploaded the data onto the .csv files.  That way I could get the data from the file to parse it into an array. Then I had to take that array and run the SQL command to insert the data into the database. Then I had to create a JavaScript program that could display all the information for a specific date. After learning JavaScript fairly easily I had to host the program online. I did this through Infinityfree.net, where it is still up and running. 
+Use http://weatherproject.rf.gd/Form.php and http://weatherproject.rf.gd/json_form
