@@ -13,10 +13,9 @@ labels:
   - HTML
 summary: A responsive web application to help former Professor centralize weather data from his cabin in northern Wisconsin.
 ---
-
 <div class="ui small rounded images">
-<img class="ui medium right floated rounded image" src="../images/Weather1.png">
-<img class="ui medium right floated rounded image" src="../images/Weather2.png">
+  <img class="ui image" src="../images/Weather1.png">
+  <img class="ui image" src="../images/Weather2.png">
 </div>
 
 The Weather Data Project was a collaboration between me and a former professor.  Ex-professor Oij, another retired professor of mine, has a cabin somewhere in Northern Wisconsin.  He keeps records of several different kinds of weather data that he measures every hour on the hour beginning in 2014. All of the data he had was uploaded to a .csv file. What I needed to do was to retrieve that data and insert it into a database as well as incoming data. Then the web page should be able to display that information in JavaScript format. 
