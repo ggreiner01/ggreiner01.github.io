@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/Clouds.jpg
 title: Weather Project
 permalink: projects/Weather
 # All dates must be YYYY-MM-DD format!
