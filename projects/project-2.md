@@ -13,6 +13,7 @@ labels:
   - HTML
 summary: A responsive web application to help former Professor centralize weather data from his cabin in northern Wisconsin.
 ---
+
 <div class="ui small rounded images">
 <img class="ui medium right floated rounded image" src="../images/Weather1.png">
 <img class="ui medium right floated rounded image" src="../images/Weather2.png">
