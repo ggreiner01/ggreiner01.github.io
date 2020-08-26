@@ -62,12 +62,8 @@
     {
       "name": "Toolsets/OS",
       "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+      "keywords": [   
+        "Git/GitHub"     
       ]
     }
   ],
